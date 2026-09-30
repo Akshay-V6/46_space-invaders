@@ -97,6 +97,7 @@ space-invaders-main/
 
 Submission is only the following three things:
 
-- [] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
-- [] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
-- [] The Chat/LLM used page link, with the complete chat history
+- [x] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior (`Lab-4/before.mp4`)
+- [x] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working (`Lab-4/after.mp4`)
+- [x] The Chat/LLM used page link, with the complete chat history (`Lab-4/Lab4_Chat_History_and_Report.pdf` and `.docx`)
+
